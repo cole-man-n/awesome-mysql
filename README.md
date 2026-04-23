@@ -196,6 +196,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *Tools that prevents leaking of sensitive data from database (encryption, masking and tokenization, honey-pots, etc)*
 
 - [Acra](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
+- [hoop.dev](https://github.com/hoophq/hoop) - open-source, layer 7 gateway for SQL databases with built-in data masking, query guardrails, JIT access, and audit logging for both human and AI agent connections.
 - [myanon](https://github.com/ppomes/myanon) - Streaming anonymizer for MySQL dump files, reading mysqldump output from stdin and writing anonymized data to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.
 - [myldapsync](https://github.com/6eh01der/myldapsync) - Synchronize MySQL or MariaDB users with users in an LDAP directory.
 
